@@ -13,10 +13,17 @@ The extracted information was then organized and stored in a Pandas DataFrame. F
 # To Begin - Run the following
 
 1. Clone this project
+
 2. Create a virtualenv by typing and running this on your terminal (within your project folder)
+
 virtualenv --python=python3 yourEnvNmae
+
 3. Activate the environment - type and run following on your terminal
+
 source yourEnvName/bin/activate
+
 4. Install all requirements - type and run the following on your terminal
+
 pip install -r requirements.txt
+
 5. Now you set to go - Just run your project 👍 
